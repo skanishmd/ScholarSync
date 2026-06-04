@@ -1,0 +1,7 @@
+venv/
+*.pdf
+__pycache__/
+.env
+*.docx
+*.xlsx
+export-*.png
